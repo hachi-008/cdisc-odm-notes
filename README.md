@@ -10,7 +10,7 @@ CDISC ODM(Operational Data Model) v1.3 명세를 읽으며 정리한 한국어 �
 
 네 명이 매일 정해진 분량을 읽고 각자 노트를 쓴 뒤 PR로 공유하는 방식으로 진행했습니다.
 
-- [@hachi-008](https://github.com/hachi-008) (mineunyoung)
+- [@danbom](https://github.com/danbom) (mineunyoung)
 - [@ssso-pro1](https://github.com/ssso-pro1) (Soyeon Jang)
 - [@mond1219](https://github.com/mond1219)
 - [@mugju](https://github.com/mugju) (DongD)
